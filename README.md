@@ -68,7 +68,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Apache_Kafka_Logo.svg/1200px-Apache_Kafka_Logo.svg.png" alt="Kafka" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
 </div>
