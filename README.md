@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **srahshitha@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3Vu9NBQ](https://bit.ly/3Vu9NBQ)
+- 📄 Know about my experiences [https://bit.ly/3Vu9NBQ](https://bit.ly/rahshi-resume)
 
 - ⚡ Fun fact **I'm an avid collector of vintage vinyl records, always on the lookout for hidden musical treasures.**
 
