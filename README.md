@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👩‍💻 I'm Rahshitha, Artificial Intelligence and Data Science</h1>
+<h1>👩‍💻 I'm Rahshitha, AI and Data Science Student</h1>
 <div>
 <h4>🌟 I love exploring new technologies and pushing boundaries.</h4>
 <h4>🛠️ Projects: I've worked on full-stack development, Figma design, machine learning, deep learning, natural language processing.</h4>
