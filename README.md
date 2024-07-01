@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me
 👩‍💻 About Me:<br>- Hi, I'm Rahshitha, currently pursuing a degree in Artificial Intelligence and Data Science.<br>- 🌟 I love exploring new technologies and pushing boundaries.<br>- 🛠️ Projects: I've worked on full-stack development, Figma design, machine learning, deep learning, natural language processing.<br>- 📊 Data Analysis: Proficient in PowerBI and Tableau for insightful data analysis.<br>- 🤖 AI Enthusiast: Experienced in generative AI and transfer learning.<br>- 💻 Programming Languages: Skilled in C, Java, Python, and SQL.<br>- 💡 Problem Solver: Solved over 400 problems on LeetCode.<br>- ⚛️ Frontend Skills: Worked with React to create dynamic web applications.
 
@@ -18,3 +19,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahshi21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
