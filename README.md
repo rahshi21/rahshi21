@@ -6,17 +6,17 @@
 Hi, I'm Rahshitha, currently pursuing a degree in Artificial Intelligence and Data Science.
 <br><br>
 🌟 I love exploring new technologies and pushing boundaries.
-<br>
+<br><br>
 🛠️ Projects: I've worked on full-stack development, Figma design, machine learning, deep learning, natural language processing.
-<br>
+<br><br>
 📊 Data Analysis: Proficient in PowerBI and Tableau for insightful data analysis.
-<br>
+<br><br>
 🤖 AI Enthusiast: Experienced in generative AI and transfer learning.
-<br>
+<br><br>
 💻 Programming Languages: Skilled in C, Java, Python, and SQL.
-<br>
+<br><br>
 💡 Problem Solver: Solved over 400 problems on LeetCode.
-<br>
+<br><br>
 ⚛️ Frontend Skills: Worked with React to create dynamic web applications.
 </div>
 
