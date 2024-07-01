@@ -2,9 +2,8 @@
 
 <h1>👩‍💻 About Me:</h1>
 <div>
-  <br>
 <h5>Hi, I'm Rahshitha, currently pursuing a degree in Artificial Intelligence and Data Science.</h5>
-<br><br>
+<br>
 🌟 I love exploring new technologies and pushing boundaries.
 <br><br>
 🛠️ Projects: I've worked on full-stack development, Figma design, machine learning, deep learning, natural language processing.
