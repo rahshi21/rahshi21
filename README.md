@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👩‍💻 About Me:</h1>
+<h1>👩‍💻 About Me</h1>
 <div>
 <h4>Hi, I'm Rahshitha, currently pursuing a degree in Artificial Intelligence and Data Science.</h4>
 <h4>🌟 I love exploring new technologies and pushing boundaries.</h4>
