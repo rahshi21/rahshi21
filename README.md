@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahshitha K S</h1>
 <h3 align="center"><p>I am currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science, specializing in cutting-edge technologies that drive innovation.</p><p>My expertise encompasses a wide array of artificial intelligence domains, including machine learning, computer vision, natural language processing, and generative AI.</p> <p>As a seasoned ML engineer, I excel in developing and deploying advanced machine learning models tailored to diverse applications.</p> <p>My proficiency extends to full-stack development, where I leverage languages such as Java, C, Python, and SQL to create robust solutions from end to end.</p> <p> Driven by a passion for data analysis, I harness the power of tools like Tableau and PowerBI to extract valuable insights from complex datasets. Continuously seeking opportunities to innovate, I am committed to leveraging emerging technologies to address real-world challenges and achieve impactful results.</p></h3>
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/rahshitha-profolio](https://rahshitha-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://bit.ly/rahshitha-profolio](https://rahshitha-portfolio-gxjn.onrender.com/)
 
 - 📫 How to reach me **srahshitha@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3Vu9NBQ](https://bit.ly/rahshi-resume)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1yU9iHQ_3bYkE0T16IekJpo1izeuXFjGU](https://drive.google.com/drive/folders/1yU9iHQ_3bYkE0T16IekJpo1izeuXFjGU)
 
 - ⚡ Fun fact **I'm an avid collector of vintage vinyl records, always on the lookout for hidden musical treasures.**
 
